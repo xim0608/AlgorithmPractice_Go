@@ -6,7 +6,7 @@ import (
 
 func main() {
 	var (
-		marbles   string
+		marbles string
 		counter = 0
 	)
 	fmt.Scan(&marbles)
