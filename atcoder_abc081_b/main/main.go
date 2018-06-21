@@ -13,7 +13,7 @@ func diviedbyTwo(a int) int {
 
 func main() {
 	var (
-		n int
+		n       int
 		counter = 0
 	)
 	fmt.Scan(&n)
@@ -33,5 +33,5 @@ func main() {
 		//fmt.Println(blackboard)
 		counter++
 	}
-	fmt.Println(counter-1)
+	fmt.Println(counter - 1)
 }
